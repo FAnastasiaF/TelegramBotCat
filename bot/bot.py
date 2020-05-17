@@ -3,6 +3,7 @@ import cat_breeds
 import random
 import time
 import cat_stickers
+import copy
 
 
 bot = telebot.TeleBot(TOKEN)
@@ -13,8 +14,7 @@ keyboard1.row('Викторина на знание пород кошек', 'Х�
 
 
 def sendquiz(message):
-    listkeys = cat_breeds.cats_keys
-    print(message.chat.id)
+    listkeys = copy.deepcopy(cat_breeds.cats_keys)
     results = 0
     for i in range(10):
         optionslist = []
