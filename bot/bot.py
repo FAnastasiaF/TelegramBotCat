@@ -38,6 +38,7 @@ def start_message(message):
     bot.send_sticker(message.chat.id, 'CAACAgIAAxkBAAICEl7BlHGOjNsjU1ZYzxK0fS8LSbgnAAIcAQACb6yABRwmSBsqSiohGQQ',
                      disable_notification=True)
 
+
 @bot.message_handler(commands=['help'])
 def help_message(message):
     bot.send_message(message.chat.id, 'Я умею:\n'
@@ -51,6 +52,7 @@ def help_message(message):
                                       '[напиши мне или нажмите на кнопку \'Хочу стикер с котиком\']\n'
                                       'Если ты мне отправишь стикер я отправлю тебе его же',
                      reply_markup=keyboard1, disable_notification=True)
+
 
 @bot.message_handler(content_types = ['text'])
 def text(message):
@@ -69,6 +71,7 @@ def text(message):
     else:
         print(message.text)
         bot.send_message(message.chat.id, 'Я такого не знаю', disable_notification=True)
+
 
 @bot.message_handler(content_types=['sticker'])
 def sticker_id(message):
