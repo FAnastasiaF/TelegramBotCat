@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1edc4f38-e580-4bb4-bf16-28b70d8c5c40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzT7bFlDd9turarQ9UXu3G0bmF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bot">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../project/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cat_breeds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cat_breeds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cat_stickers" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cat_stickers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="photo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot" />
+        <item itemvalue="Python.cat_breeds" />
+        <item itemvalue="Python.photo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1edc4f38-e580-4bb4-bf16-28b70d8c5c40" name="Default Changelist" comment="" />
+      <created>1589633755933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589633755933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="19" width="668" height="700" key="#bot" timestamp="1589636031777">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state x="608" y="19" width="668" height="700" key="#bot/0.27.1280.692@0.27.1280.692" timestamp="1589636031777" />
+    <state x="593" y="132" width="424" height="492" key="FileChooserDialogImpl" timestamp="1589638098928">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state x="593" y="132" width="424" height="492" key="FileChooserDialogImpl/0.27.1280.692@0.27.1280.692" timestamp="1589638098928" />
+    <state width="1257" height="139" key="GridCell.Tab.0.bottom" timestamp="1589810541675">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state width="1257" height="139" key="GridCell.Tab.0.bottom/0.27.1280.692@0.27.1280.692" timestamp="1589810541675" />
+    <state width="1257" height="139" key="GridCell.Tab.0.center" timestamp="1589810541674">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state width="1257" height="139" key="GridCell.Tab.0.center/0.27.1280.692@0.27.1280.692" timestamp="1589810541674" />
+    <state width="1257" height="139" key="GridCell.Tab.0.left" timestamp="1589810541673">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state width="1257" height="139" key="GridCell.Tab.0.left/0.27.1280.692@0.27.1280.692" timestamp="1589810541673" />
+    <state width="1257" height="139" key="GridCell.Tab.0.right" timestamp="1589810541674">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state width="1257" height="139" key="GridCell.Tab.0.right/0.27.1280.692@0.27.1280.692" timestamp="1589810541674" />
+    <state x="30" y="27" width="900" height="692" key="SettingsEditor" timestamp="1589640364772">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state x="30" y="27" width="900" height="692" key="SettingsEditor/0.27.1280.692@0.27.1280.692" timestamp="1589640364772" />
+    <state x="289" y="19" width="698" height="700" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589732431630">
+      <screen x="0" y="27" width="1280" height="692" />
+    </state>
+    <state x="289" y="19" width="698" height="700" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1280.692@0.27.1280.692" timestamp="1589732431630" />
+  </component>
+</project>
