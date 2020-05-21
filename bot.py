@@ -22,7 +22,7 @@ def sendquiz(message):
             listkeys.remove(optionslist[j])
         correct_option = random.randint(0, 3)
         bot.send_photo(chat_id=message.chat.id,
-                       photo=open(optionslist[correct_option]+".jpg", "rb"),
+                       photo=open("./photocats/"+optionslist[correct_option] + ".jpg", "rb"),
                        disable_notification=True)
         messagebot = bot.send_poll(chat_id=message.chat.id,
                                    question="{}.Какая порода?".format(i+1),
@@ -71,12 +71,12 @@ def text(message):
         sendquiz(message)
     elif(message.text in cat_lists.CATS_BREEDS):
         bot.send_photo(message.chat.id,
-                       open(message.text + ".jpg", "rb"),
+                       open("./photocats/" + message.text + ".jpg", "rb"),
                        reply_markup=keyboard1,
                        disable_notification=True)
     elif(message.text == 'Хочу фото котика'):
         bot.send_photo(message.chat.id,
-                       open(cat_lists.CATS_BREEDS[random.randint(0, len(cat_lists.CATS_BREEDS)-1)] + ".jpg", 'rb'),
+                       open("./photocats/" + cat_lists.CATS_BREEDS[random.randint(0, len(cat_lists.CATS_BREEDS)-1)] + ".jpg", 'rb'),
                        reply_markup=keyboard1,
                        disable_notification=True)
     elif(message.text == 'Хочу стикер с котиком'):
